@@ -5,5 +5,5 @@ one:
   user_id: 1
 
 two:
-  content: MyText
-  user_id: 1
+  content: MyText2
+  user_id: 2
